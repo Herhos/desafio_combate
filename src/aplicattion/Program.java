@@ -3,8 +3,6 @@ package aplicattion;
 import java.util.Locale;
 import java.util.Scanner;
 
-import javax.sql.rowset.serial.SQLOutputImpl;
-
 import entities.Champion;
 
 public class Program
