@@ -64,7 +64,6 @@ public class Program
 				}
 				else
 				{
-					//System.out.println(campeao1.getName() + ": " + campeao1.getLife() + " de vida");
 					System.out.println(campeao1.status());					
 				}
 				if (campeao2.getLife() < 0)
@@ -73,7 +72,6 @@ public class Program
 				}
 				else
 				{									
-					//System.out.println(campeao2.getName() + ": " + campeao2.getLife() + " de vida");
 					System.out.println(campeao2.status());
 				}				
 				System.out.println();

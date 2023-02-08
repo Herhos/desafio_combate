@@ -14,7 +14,7 @@ public class Champion
 		this.name = name;
 		this.life = life;
 		this.attack = attack;
-		this.armor = armor;
+		this.armor = armor;		
 	}
 
 	public String getName()
